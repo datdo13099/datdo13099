@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=datdo13099&show_icons=true&theme=radical" width="100%"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datdo13099&layout=compact&theme=radical" width="110%"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datdo13099&layout=compact&theme=radical" width="150%"/></td>
   </tr>
 </table>
 
