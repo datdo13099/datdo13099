@@ -1,7 +1,5 @@
 <h1 align="center">
-  <span style="display:inline-block; animation:glow 1.5s infinite alternate;">🛠️</span> 
-  profile này không có bug, chỉ có feature ẩn 
-  <span style="display:inline-block; animation:glow 1.5s infinite alternate;">🛠️</span>
+  🛠️ profile này không có bug, chỉ có feature ẩn 🛠️
 </h1>
 
 <p align="center">
@@ -20,8 +18,8 @@
 ---
 
 ## 🏆 dự án hiện tại:
-| <span style="animation:shake 0.5s infinite alternate;">🚀</span> dự án | 🎮 thể loại | 🔧 tech stack | 📌 tình trạng |
-|---------|---------|-----------|------------|
+| dự án | thể loại | tech stack | tình trạng |
+|-------|---------|-----------|------------|
 | **Hack 'n' Slash** | hành động | `sdl2, c++` | 🚀 đang làm |
 
 ---
@@ -60,19 +58,3 @@
 > 🧠 *"code chạy không lỗi chưa chắc đã đúng, nhưng code lỗi chắc chắn sai."*  
 > ☕ *"debug là nghệ thuật biến bug này thành bug khác."*  
 > 🏆 *"một coder giỏi không phải là không có bug, mà là giấu bug cực khéo."*
-
----
-
-### 🎨 hiệu ứng css cho markdown (chỉ hoạt động trên một số nền tảng)
-```css
-<style>
-@keyframes glow {
-  0% { text-shadow: 0 0 5px #ff0; }
-  100% { text-shadow: 0 0 20px #ff0; }
-}
-
-@keyframes shake {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(5px); }
-}
-</style>
