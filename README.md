@@ -1,5 +1,5 @@
 <h1 align="center">
-  🛠️ profile này không có bug, chỉ có feature ẩn 🛠️
+  🚀 profile này không có bug, chỉ có feature ẩn 🚀
 </h1>
 
 <p align="center">
@@ -10,17 +10,25 @@
 
 ## 🎯 ai đây?
 - 💻 full-time coder, part-time proplayer 🎮  
-- 🎓 sinh viên **cs @ uet**
+- 🎓 sinh viên **cs @ uet**  
 - 🛠 debug = nghệ thuật biến bug này thành bug khác  
 - 🎨 theme **visual studio tím**, chuyên dark mode  
-- 💀 bị ám ảnh bởi segfault
+- 💀 bị ám ảnh bởi segfault  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250"/>
+</p>
 
 ---
 
 ## 🏆 dự án hiện tại:
-| dự án | thể loại | tech stack | tình trạng |
-|-------|---------|-----------|------------|
+| 🚀 dự án | 🎮 thể loại | 🔧 tech stack | 📌 tình trạng |
+|---------|---------|-----------|------------|
 | **Hack 'n' Slash** | hành động | `sdl2, c++` | 🚀 đang làm |
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+</p>
 
 ---
 
@@ -36,6 +44,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+</p>
 
 ---
 
@@ -55,3 +67,7 @@
 > 🧠 *"code chạy không lỗi chưa chắc đã đúng, nhưng code lỗi chắc chắn sai."*  
 > ☕ *"debug là nghệ thuật biến bug này thành bug khác."*  
 > 🏆 *"một coder giỏi không phải là không có bug, mà là giấu bug cực khéo."*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l1J9Jzcs9B4rp3sTC/giphy.gif" width="200"/>
+</p>
