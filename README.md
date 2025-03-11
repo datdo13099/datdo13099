@@ -2,9 +2,16 @@
   🛠️ profile này không có bug, chỉ có feature ẩn 🛠️
 </h1>
 
+<details>  
+  <summary>🚀 click để bật feature ẩn</summary>  
+  <br>  
+  🤫 **chẳng có feature ẩn nào cả, bị lừa rồi nhé!**  
+</details>
+
 <p align="center">
   <img src="https://media.giphy.com/media/Q81NcsY6YxK7jxnr4v/giphy.gif" width="250"/>
 </p>
+
 
 ---
 
