@@ -13,7 +13,8 @@
 - 🎓 sinh viên **cs @ uet**, chuyên ngành "command + z"  
 - 🛠 debug không sửa bug, chỉ giúp bug thích nghi với môi trường mới  
 - 🎨 visual studio theme **tím lịm**, dark mode là chân lý  
-- 💀 ám ảnh bởi **segfault**, xem stack trace như đọc horoscope mỗi sáng  
+- 💀 ám ảnh bởi **segfault**, xem stack trace như đọc horoscope mỗi sáng
+- 🍏 macbook user, sống chung với lệnh brew install, cay cú mỗi lần gặp "command not found"
 
 ---
 
