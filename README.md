@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 xin chào! tôi là [tên của mày]  
+🎯 chuyên: [các tech stack chính, ví dụ: c++, sdl2, unity]  
+🚀 đang làm: [dự án hiện tại của mày]  
+🔥 thích: [game dev, ai, hacking, whatever]  
 
-<!--
-**datdo13099/datdo13099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 dự án nổi bật  
+- [🔥 project 1](link) - mô tả ngắn  
+- [🎮 project 2](link) - mô tả ngắn  
+- [⚙️ project 3](link) - mô tả ngắn  
 
-Here are some ideas to get you started:
+### 📊 thống kê github của tôi  
+![github stats](https://github-readme-stats.vercel.app/api?username=datdo13099&show_icons=true&theme=radical)  
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datdo13099&layout=compact&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 liên hệ  
+[![linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](link)  
+[![youtube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)](link)  
+[![facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](link)  
