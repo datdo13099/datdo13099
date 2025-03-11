@@ -16,13 +16,10 @@
 
 ---
 
-## 🏆 project của tao:
-| dự án | tech stack | tình trạng |
-|-------|-----------|------------|
-| **pvz fanmade** | `sdl2, c++` | 🚀 đang làm |
-| **apple worm** | `sdl2, c++` | ✅ hoàn thành |
-| **flappy bird** | `sdl2, c++` | ✅ hoàn thành |
-| **dynomite** | `sdl2, c++` | 🚀 đang làm |
+## 🏆 dự án hiện tại:
+| dự án | thể loại | tech stack | tình trạng |
+|-------|---------|-----------|------------|
+| **Hack 'n' Slash** | hành động | `sdl2, c++` | 🚀 đang làm |
 
 ---
 
