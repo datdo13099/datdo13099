@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 code không khó, chỉ là dễ từ bỏ thôi 🚀
+  🛠️ profile này không có bug, chỉ có feature ẩn 🛠️
 </h1>
 
 <p align="center">
