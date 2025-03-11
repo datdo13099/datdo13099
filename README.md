@@ -9,18 +9,18 @@
 ---
 
 ## 🎯 ai đây?
-- 💻 full-time coder, part-time proplayer 🎮  
-- 🎓 sinh viên **cs @ uet**
-- 🛠 debug = nghệ thuật biến bug này thành bug khác  
-- 🎨 theme **visual studio tím**, chuyên dark mode  
-- 💀 bị ám ảnh bởi segfault
+- 💻 full-time coder, overtime debugger, part-time proplayer 🎮  
+- 🎓 sinh viên **cs @ uet**, chuyên ngành "ctrl + z"  
+- 🛠 debug không sửa bug, chỉ giúp bug thích nghi với môi trường mới  
+- 🎨 visual studio theme **tím lịm**, dark mode là chân lý  
+- 💀 ám ảnh bởi **segfault**, xem stack trace như đọc horoscope mỗi sáng  
 
 ---
 
 ## 🏆 dự án hiện tại:
 | dự án | thể loại | tech stack | tình trạng |
 |-------|---------|-----------|------------|
-| **Hack 'n' Slash** | hành động | `sdl2, c++` | 🚀 đang làm |
+| **Hack 'n' Slash** | hành động | `sdl2, c++` | 🚀 bug đang hack tôi |
 
 ---
 
@@ -57,4 +57,5 @@
 ## 🎭 quote tâm đắc:
 > 🧠 *"code chạy không lỗi chưa chắc đã đúng, nhưng code lỗi chắc chắn sai."*  
 > ☕ *"debug là nghệ thuật biến bug này thành bug khác."*  
-> 🏆 *"một coder giỏi không phải là không có bug, mà là giấu bug cực khéo."*
+> 🏆 *"một coder giỏi không phải là không có bug, mà là giấu bug cực khéo."*  
+> 🔥 *"segfault không tự nhiên sinh ra, cũng không tự nhiên mất đi, nó chỉ chuyển từ bug này sang bug khác."*  
