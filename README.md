@@ -1,5 +1,7 @@
 <h1 align="center">
-  🚀 profile này không có bug, chỉ có feature ẩn 🚀
+  <span style="display:inline-block; animation:glow 1.5s infinite alternate;">🛠️</span> 
+  profile này không có bug, chỉ có feature ẩn 
+  <span style="display:inline-block; animation:glow 1.5s infinite alternate;">🛠️</span>
 </h1>
 
 <p align="center">
@@ -10,25 +12,17 @@
 
 ## 🎯 ai đây?
 - 💻 full-time coder, part-time proplayer 🎮  
-- 🎓 sinh viên **cs @ uet**  
+- 🎓 sinh viên **cs @ uet**
 - 🛠 debug = nghệ thuật biến bug này thành bug khác  
 - 🎨 theme **visual studio tím**, chuyên dark mode  
-- 💀 bị ám ảnh bởi segfault  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250"/>
-</p>
+- 💀 bị ám ảnh bởi segfault
 
 ---
 
 ## 🏆 dự án hiện tại:
-| 🚀 dự án | 🎮 thể loại | 🔧 tech stack | 📌 tình trạng |
+| <span style="animation:shake 0.5s infinite alternate;">🚀</span> dự án | 🎮 thể loại | 🔧 tech stack | 📌 tình trạng |
 |---------|---------|-----------|------------|
 | **Hack 'n' Slash** | hành động | `sdl2, c++` | 🚀 đang làm |
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-</p>
 
 ---
 
@@ -45,10 +39,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
-</p>
-
 ---
 
 ## 🤙 liên hệ:
@@ -59,6 +49,9 @@
   <a href="https://www.youtube.com/@datdooooo">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+  <a href="mailto:24021403@vnu.edu.vn">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -68,6 +61,18 @@
 > ☕ *"debug là nghệ thuật biến bug này thành bug khác."*  
 > 🏆 *"một coder giỏi không phải là không có bug, mà là giấu bug cực khéo."*
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9Jzcs9B4rp3sTC/giphy.gif" width="200"/>
-</p>
+---
+
+### 🎨 hiệu ứng css cho markdown (chỉ hoạt động trên một số nền tảng)
+```css
+<style>
+@keyframes glow {
+  0% { text-shadow: 0 0 5px #ff0; }
+  100% { text-shadow: 0 0 20px #ff0; }
+}
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(5px); }
+}
+</style>
