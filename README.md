@@ -26,9 +26,9 @@
 
 ## 📊 thống kê github:
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=datdo13099&show_icons=true&theme=radical" width="45%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datdo13099&layout=compact&theme=radical" width="45%" alt="Most Used Languages"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datdo13099&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datdo13099&layout=compact&theme=radical" width="48%"/>
 </div>
 
 
